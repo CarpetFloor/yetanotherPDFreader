@@ -1,0 +1,23 @@
+{
+  "name": "yetanotherpdfreader",
+  "version": "1.0.0",
+  "description": "I know that there are already millions of PDF readers out there, but I wanted to create one to be completely tailored to my preferences. Additionally, I wanted to use this a project to gain experience with Electron.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarpetFloor/yetanotherPDFreader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarpetFloor/yetanotherPDFreader/issues"
+  },
+  "homepage": "https://github.com/CarpetFloor/yetanotherPDFreader#readme",
+  "devDependencies": {
+    "electron": "^23.2.1"
+  }
+}
